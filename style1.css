@@ -12,8 +12,7 @@ body {
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0 )),
-        url("/joe-bart4-removebg-preview.png");
+        ("joe-bart4-removebg-preview.png");
 
     background-size: 780px 480px;
     background-position: center;
